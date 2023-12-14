@@ -1,1 +1,1 @@
-This file includes all the achievements of me.
+This file includes all the achievements of mine.
